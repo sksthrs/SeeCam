@@ -10,3 +10,8 @@ Windows PCで、カメラ（PC搭載WebカメラやUSB外付けなど）の映�
 - カメラ映像はウインドウ内にぴったり収まるように（元のアスペクト比のままで）拡大縮小します。カメラ映像とウインドウのアスペクト比が違う場合、余った領域は黒くなります。
 
 ![SeeCamスクリーンショット](https://github.com/sksthrs/SeeCam/wiki/seecam_ss.png)
+
+## 中身について
+
+- 基本的にはAForge.NET ( http://www.aforgenet.com/ ) を使っているだけです。なおSeeCamはMITライセンスですが、AForge.NETはLGPLライセンスです。
+- tocsworldさんの記事 ( https://tocsworld.wordpress.com/2014/02/25/c%e3%81%ab%e3%82%88%e3%82%8busb%e3%82%ab%e3%83%a1%e3%83%a9%e6%93%8d%e4%bd%9c/ ) を参考にしました。
